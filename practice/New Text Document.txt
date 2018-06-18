@@ -1,0 +1,12 @@
+the practice sets for logistic regression and linear 
+Regression.
+
+1. Logistic Regression : Predicting age of Abalon
+2. Regression : Predicting Wine quality
+
+Problem Statement and Datasets attached here in
+<Abalon_age_prediction_dataset.csv>
+<Logistic_regression_Problem_Statement_ abalone_age_prediction.txt>
+
+<wine_quality_pred_dataset.csv>
+<wine_quality_pred_problem_statement.txt>
